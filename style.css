@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.header-title {
+  color: red;
+  text-decoration: underline;
+}
+
+.main {
+  text-decoration: underline;
+}
